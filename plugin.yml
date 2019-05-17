@@ -1,0 +1,9 @@
+name: SurvivalFly
+version: 1.0
+main: SurvivalFly\Main
+api: [3.0.0]
+author: Amon
+
+commands:
+ fly:
+  description: Fly in Survival
